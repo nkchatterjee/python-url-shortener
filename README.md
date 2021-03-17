@@ -8,7 +8,7 @@ If you'd like to use bit.ly, first [make a free account](https://bitly.com/a/sig
 
 After you've cloned the repository to your local device and installed the dependencies outlined in `requirements.txt`, run the `shorten_url.py` file and respond to the prompts.
 
-This program currently has limited functionality. It doesn't yet include error handling for bad URL inputs. If the URL entered to shorten is a bit.ly link, the program errors out. If the URL entered to length is not saved in bit.ly's API, the program errors out. Therefore, make sure you use valid links. 
+This program currently has limited functionality. It doesn't yet include error handling for bad URL inputs. If the URL entered to shorten is a bit.ly link, the program errors out. If the URL entered to expand is not saved in bit.ly's API, the program errors out. Therefore, make sure you use valid links. 
 
 Every time you want to either shorten or length a URL, just run the file again.
 
